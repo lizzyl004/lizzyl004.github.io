@@ -88,6 +88,10 @@
     img {
       width:80%;
       height:auto;
+      transition: transform 0.5s ease-in-out;
+    }
+    img:hover {
+      transform:rotate(360deg);
     }
     h1,h2 {
       width:90%
