@@ -71,7 +71,8 @@
       gap:20px;
     }
     .footerButton {
-      background-color: teal;
+      background-color: #0B6162;
+      color:white;
       padding: 20%;
       margin: 2%;
       font-size: 16px;
