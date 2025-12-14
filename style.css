@@ -70,13 +70,13 @@
       gap: 10px;
     }
     .footerButton {
+      flex-wrap:wrap;
       background-color: #0B6162;
       color:white;
       padding: 20px, 20px;
       margin: 20px;
       font-size: 25px;
       border-radius: 16px;
-      flex-wrap:wrap;
     }
     .footerButton:hover {
       background-color: #E75480;
